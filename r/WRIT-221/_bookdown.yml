@@ -1,0 +1,21 @@
+book_filename: "WRIT-221"
+delete_merged_file: true
+output_dir: "_book"
+language:
+  ui:
+    chapter_name: ""
+  label:
+    fig: 'Figure '
+    tab: 'Table '
+    eq: 'Equation '
+    thm: 'Theorem '
+    lem: 'Lemma '
+    cor: 'Corollary '
+    prp: 'Proposition '
+    cnj: 'Conjecture '
+    def: 'Definition '
+    exm: 'Example '
+    exr: 'Exercise '
+    proof: 'Proof. '
+    remark: 'Remark. '
+    solution: 'Solution. '

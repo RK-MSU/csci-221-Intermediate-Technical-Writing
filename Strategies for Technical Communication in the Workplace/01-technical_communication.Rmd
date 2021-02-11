@@ -1,0 +1,202 @@
+# Technical Communication: Global, Collaborative and Digital
+
+```{definition}
+Technical communication is the exchange of information that helps people interact with technology, advance workplace goals, and solve complex problems.
+```
+
+## Main Features of Technical Communication
+
+### Focus is on the Reader, Not the Write
+
+Unlike poetry, fiction, or essays, technical documents rarely focus on the author’s personal thoughts and feelings. This doesn’t mean that technical documents should have no personality (or voice), but it does mean that the needs of your readers must come first.
+
+Placing the reader’s needs and interests first takes practice because many of us are taught to write from our own perspectives. For instance, assume you've been asked to create a set of instructions that explain how people in the community can bring house-hold hazardous waste (gasoline, paint) for recycling.
+
+### Information is Persuasive, Truthful, and Based on Reasearch
+
+Persuasion means trying to influence someone’s actions, opinions, or decisions. In the workplace, we rely on persuasion daily: to win coworker support, to attract clients and customers, or to request funding. But changing someone’s mind is never easy, and sometimes it is impossible. Your success will depend on who you are trying to persuade, what you are requesting, and how entrenched they are in their own views.
+
+## Three Primary Purposes of Technical Communication
+
+Most technical communication seeks to address one of three primary purposes: to anticipate and answer questions (inform), to enable people to perform a task (instruct), or to influence people’s thinking (persuade). Keep in mind that these purposes often overlap (as in the following sample documents). However, most documents have one primary purpose: to inform, to instruct, or to persuade.
+
+### Informational Purpose
+
+**Informational documents anticipate and answer questions.**
+
+Usually designed for a wide audience of readers who may know little about the topic, but the write has kept audience diversity in mind by anticipating and answering likely questions.
+
+### Instructional Purpose
+
+**Instructional documents help people preform a task**
+
+As we have all experienced, effective instructions can be a pleasure to work with because they help people do what they want to do. But poor instructions can create frustration, often causing people to return the product and to have second thoughts about purchasing that brand in the future.
+
+### Persuasive Purpose
+
+**Persuasive documents encourage reader to take a desired action.**
+
+Persuasive answer to a customer’s question: “Why should I invest in the system you are proposing for my plant?” As you read the letter, note how the writer focuses on reasons that are important to the reader.
+
+
+## Common Types of Technical Documents
+
+- **Memos**. Organizations use memos as the primary means of internal written communication. Unlike a conversation, a memo leaves a record for future reference. An employee might write a memo to a manager requesting a pay raise; a team of students might write a memo to an instructor explaining their progress on a term project; or an office manager might write a memo to company employees to outline the new vacation policy. Most memos are sent out via email (either as an attachment or as a stand-alone email message).
+
+- **Email**. Email is the main way people communicate in today’s workplace. Email is used widely to communicate with clients, customers, suppliers, and associates worldwide. Email messages are sometimes written more informally than paper memos or letters, but in the workplace, most writers recognize that email must maintain a similar level of professionalism to other formats.
+
+- **Letters**. Letters, especially on company letterhead, offer a more formal way to communicate than email or memos. As a student, you might write a letter to request research data or to apply for a summer internship. At work, you might use a letter format to persuade a client to invest in a new technology or to explain the delay in a construction project.
+
+- **Instructions**. Instructions explain the steps or course of action for completing a specific task such as how to use a fire extinguisher. Instructions come in various formats: online instructions may be accessible from the help menu of an app; brief instructions may be written on single-page reference cards; longer instructions may be part of a more comprehensive user manual.
+
+- **Procedures**. Procedures are similar to instructions in that they explain how to perform a task step by step; however, procedures are different in that they usually deal with matters of company or organizational policy. Many companies maintain standard operating procedures (SOPs) for tasks such as how to test soil samples or how to access corporate databases.
+
+- **Manuals**. Almost every technology product or service comes with a manual. Manuals may include instructions on how to assemble, set up, and use a product, but they also include background information, such as technical specifications or lists of materials. Most people have used manuals to perform tasks such as connecting the components of your sound system or setting up the voice mail on your office phone system. Most manuals are available in hard copy and for digital download.
+
+- **Brochures**. To market goods or services, companies produce brochures. Brochures from professional organizations such as the American Medical Association may define various medical conditions, explain the causes, and describe available treatments. Many government agencies create brochures to help with issues such as how to obtain student loans or how to start a small business.
+
+- **Proposals**. Proposals offer solutions to problems and make specific recommendations for how to implement those solutions. A proposal’s purpose is usually to persuade readers to improve conditions, accept a service or product, or otherwise support a plan of action. Proposals are often written in response to calls for proposals (CFPs) or requests for proposals (RFPs). For example, a nonprofit child-care facility may seek safer playground equipment, or a pharmaceutical company may wish to develop a new online education program for its employees. These organizations would issue RFPs, and each interested vendor would prepare a proposal that examines the problem, presents a solution, and defines the process and associated fees.
+
+- **Reports**. Reports, both short and long, are generally based on the study of a specific problem or issue. Some reports are strictly informative (“Why Smartphone Batteries Can Explode”); other reports recommend solutions to urgent problems (“Recommended Security Measures for Airline Safety”); and still others have an overtly persuasive goal, advocating a particular course of action (“Why Voters Should Reject the Nuclear Waste Storage Facility Proposed for Our County”).
+
+
+## Technical Communication in Global, Collaborative, and Digital
+
+In the workplace, the documents we create have global implications, are typically written not by one individual but in teams, and are created using digital technologies and distributed electronically.
+
+## Technical Communication is Global
+
+Employees who work across different continents, countries, and cultures must pay special attention to various customs and values. Key to this practice is the idea of “face saving.” No one wants to be embarrassed in public, have his or her traditions or values criticized, or be treated with disrespect. (All these situations represent what is sometimes called a loss of “face.”) But people in different cultures have different views about what is embarrassing or insulting. For example, in some cultures a “tell it like it is” approach is considered rude, while in others body language such as leaning back in your chair and crossing your arms signals disrespect.
+
+
+## Technical Communication is Collaborative
+
+**Teamwork is a frequent part of technical communication**
+
+Complex technical documents (especially long reports, proposals, and manuals) are rarely created by one person working alone. In the workplace, such documents are typically produced by teams of writers, engineers, scientists, graphic artists, editors, reviewers, marketing personnel, lawyers, and other professionals.
+
+Teamwork is successful only when there is strong cooperation, a recognized team structure, and clear communication. The following Strategies explain how to work on a team project systematically.
+
+### Strategies for Organizing a Team Project {-}
+
+- **Appoint a group manager**. The manager assigns tasks, enforces deadlines, conducts meetings, consults with supervisors, and “runs the show.”
+- **Define a clear and definite goal.** Compose a purpose statement that spells out the project’s goal and the plan for achieving the goal. Be sure each team member understands the goal.
+- **Identify the type of document required.** Is this a report, a proposal, a manual, or a brochure? Are visuals and supplements (abstract, appendices, and so on) needed? Will the document be made available online, in print, or both?
+- **Divide the tasks.** Who will be responsible for which parts of the document or which phases of the project? Who is best at doing what (writing, editing, layout and graphics, oral presentation)? Which tasks will be done individually and which collectively? Spell out —in writing —clear expectations for each team member. Also keep in mind that the final version should display a consistent style throughout, as if written by one person only.
+- **Establish a timetable.** A timetable will help the team visualize the whole project, each part of the project, and completion dates for each phase.
+- **Decide on a meeting schedule.** How often, where, and for how long will the group meet?
+- **Establish a procedure for responding to each other’s work.** Will reviewing and editing be done in writing, face to face, as a group, one on one, or online?
+- **Develop a file-naming system for various drafts.** Be careful about saving documents. It’s too easy to save over a previous version and lose something important. Consider using a document sharing system such as Google drive or Dropbox.
+- **Establish procedures for dealing with interpersonal problems.** How will disputes be discussed and resolved (by vote, by the manager, or by other means)? How will irrelevant discussion be curtailed?
+- **Select a group decision-making style.** Will decisions be made by the group manager alone, by group input, or by majority vote?
+- **Decide how to evaluate each member’s contribution.** Will the manager assess each member’s performance and in turn be evaluated by each member? Will members evaluate each other? What are the criteria? Prepare a project planning form. Figure 1.6 shows a sample form you can adapt for your team.
+- **Submit regular progress reports.** These reports (see page 265) track activities, problems, and rate of progress.
+
+
+### Running Successful Meetings
+
+**Face-to-face meetings are either informational or decision based**
+
+Usually scheduled for one of two purposed:
+- to convey or exchange information
+- make decisions
+
+Informational meetings tend to run smoothly because there is less cause for disagreement. But decision-based meetings often fail to reach clear resolution because the meeting leader fails to take charge. Running a meeting doesn’t mean imposing one’s views or stifling opposing views, but it does mean keeping the discussion moving and centered on the issue.
+
+### Identifying and Managing Group Conflicts
+
+Even when all team members have good working relationships and positive attitudes, conflicts still can arise, usually because of the following factors:
+
+- **Interpersonal styles.** People who work on teams often clash because of differences in a range of areas, including personality, working style, cultural norms, or ability to take criticism. Some might disagree about exactly what or how much the group should accomplish, who should do what, or who should have the final say. Some might feel intimidated or hesitant to speak out. Certain people may be comfortable with a “just the facts” approach, while others on the team may interpret this style for rudeness.
+- **Digital communication.** When we communicate via text or email, ideas can be easily misunderstood. The lack of vocal inflection and facial features (such as a smile or frown) can turn what you thought was a humorous comment into a serious insult. Also, because we write more quickly in digital settings, we may not proofread carefully and thus might leave out important information, causing the team to become confused and concerned.
+- **Cultural differences.** According to one expert, some cultures value intuition and ambiguity more than hard evidence or data, or they prioritize politeness and personal relationships more than business relationships. Cultures also differ in their perceptions of time. Some are “all business” and like to get directly to the point; others take as long as they feel is needed to weigh the issues and come to carefully considered conclusions (Victor, 233). Finally, cultures differ in their accepted methods of communication, varying in their willingness to express disagreement, question or be questioned, leave things unstated, or use nonverbal language (Victor, 206).
+
+
+
+### Reviewing and Editing the Work of Others 
+
+*Reviewing* means evaluating how well a document connects with its audience and meets its purpose.
+
+Reviewers typically examine a document to make sure it includes these features:
+
+- accurate, appropriate, useful, and legal content
+- material organized for the reader’s understanding
+- clear, easy-to-read, and engaging style
+- effective visuals and page design
+
+
+*Editing* means polishing a document by making it more precise and readable at the sentence and word level.Editing may happen simultaneously with reviewing, but usually it comes after a document has been reviewed and revised—when the more global considerations of content, organization, style, and design have already been resolved and the editor can focus on more particular details.
+
+Editors typically suggest improvements such as these:
+
+- rephrasing or reorganizing sentences
+- clarifying a topic sentence
+- choosing a better word or phrase
+- correcting spelling, usage, punctuation, and so on
+
+
+
+### Strategies for Peer Review and Editing {-}
+
+- **Read the entire piece at least twice before you comment.** Develop a clear sense of the document’s purpose and audience. Try to visualize the document as a whole before you evaluate specific parts.
+- **Focus first on the big picture.** Begin with the document’s content and organization. Is the document appropriate for its audience and purpose? Is the supporting material relevant and convincing? Is the discussion easy to follow? Does each paragraph do its job? Do all the visuals serve a distinct and appropriate purpose? Is the design appropriate for this document?
+- **Be honest but diplomatic.** Say what you think, but don’t merely offer negative comments. Begin with something positive before moving to suggested improvements. Maintain a supportive tone.
+- **Explain why something doesn’t work.** Instead of “this paragraph is confusing,” say “because this paragraph lacks a clear topic sentence, | had trouble discovering the main idea.” Instead of “I don't like this visual,” say “this visual doesn’t work, not only because it is a little blurry, but also because it doesn’t add to the discussion.”
+- **Make specific recommendations for improvements.** Write out suggestions in enough detail for the writer to know what to do. Don’t just say “I think you should add a chart here.” Instead offer “I think you should add a new chart here to show all the numerical information you’ve provided in an easy-to-understand visual way.”
+- **Don’t expect everyone to agree with your suggestions.** Even professional editors can disagree. Offer your best advice but don’t dictate— others may have better suggestions. If different readers offer conflicting opinions of what needs to be revised, seek your team leader’s opinion or take it to a vote.
+- **Understand the acceptable limits of editing.** Don’t simply rewrite an entire document in your own words. Although changes can range from making a few suggestions and additions to closely editing every paragraph, always preserve the author’s original vision and style.
+- **Focus next on the particulars.** Once the document has been reviewed and revised for content, organization, style, and design, refine the sentences and word choice—and proofread several times.
+
+## Technical Communication is Digital
+
+In today’s workplace, teams are distributed across different locations, working hours, time zones, and countries. Even within the same local team, some people may work from home while others work mainly from the office.
+
+The following technologies are used regularly in technical communication:
+
+- **Teleconferencing.** The oldest form of virtual collaboration—still very much in use—occurs when multiple callers hold a conference via the telephone.
+- **Email.** The most popular app for workplace communication, email is used for sending attachments and keeping track of ideas and discussions among team members and individuals.
+- **Instant messaging (IM).** IM is a fast and easy way to hold a real-time conversation among multiple people, as long as they are all logged in.
+- **Project management software.** Most large organizations use dedicated software, such as Microsoft Project, to manage complex team projects.
+- **Editing software.** Editing tools allow multiple users to see each other’s edits (which are tagged by the user’s initials) and to accept or reject those changes. An example is Microsoft Word’s “track changes” feature.
+- **Digital whiteboards.** These tools provide a large screen that allows participants to write, sketch, and erase from their own computers in real time.
+- **Web conferencing.** A password-protected Web site provides the medium for this more contemporary version of teleconferencing.
+- **Blogs.** Blogs allow people to create postings or add comments to previous postings as a way for teams to share and refine ideas.
+- **Intranets.** Intranets are sites set up for internal company use only. Readers can access files, documents, and other content.
+- **Wikis.** Wikis can be set up to allow access only to those directly involved in the project. When a team member edits a document, a new version is created and old versions saved.
+
+
+
+
+### Checklist for Effective Technical Communication {-}
+- [ ] Does my document focus on the reader, not the writer?
+- [ ] Is the document efficient and accessible?
+- [ ] Is the document clear and easy to understand?
+- [ ] Does the document give readers what they need?
+- [ ] Have | used the appropriate media to convey my message?
+- [ ] Have | created the document to address a global audience as needed?
+- [ ] Am | able to work as part of a team?
+- [ ] Is the document sufficiently persuasive to get the response | want?
+- [ ] Is the document based on careful research?
+- [ ] Does the document achieve its primary purpose (i.e., inform, instruct, persuade)—or a combination of purposes? 
+
+#### Global Considerations {-}
+
+- [ ] Do | understand the communication customs of the international audience for my document? 
+- [ ] Is my writing clear and direct so that it is easy to translate?
+- [ ] Have | avoided idioms, humor, and slang?
+- [ ] Have | avoided stereotyping different cultures and groups of people?
+- [ ] Is the communication about this project respectful to everyone?
+
+#### Collaborative Considerations {-}
+
+- [ ] Has our team appointed a team manager?
+- [ ] Does the team agree on the type of document required?
+- [ ] Do we have a plan for how to divide the tasks?
+- [ ] Have we established a timetable and decided on a meeting schedule?
+- [ ] Do we have an agenda for our first meeting?
+- [ ] Are we using the project planning form (page 16) to help us get organized?
+
+#### Digital Considerations {-}
+- [ ] Have we decided which apps we will use for our collaboration (Google Drive; Microsoft OneDrive; other)?
+- [ ] Do we know which digital features our document requires (text only; text plus images; video) and how it will be distributed (online as a downloadable PDF; as a Word file stored on the company Intranet)?
+
